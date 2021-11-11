@@ -34,7 +34,6 @@ namespace Testing
     {
         public int Id { get; set; }
     }
-
     
 
     public static class Testing
